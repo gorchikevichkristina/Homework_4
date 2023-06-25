@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\программирование\\C#\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj": {}
+    "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj": {}
   },
   "projects": {
-    "D:\\программирование\\C#\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj": {
+    "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\программирование\\C#\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj",
+        "projectUniqueName": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj",
         "projectName": "task27_dz_4",
-        "projectPath": "D:\\программирование\\C#\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj",
+        "projectPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\task27_dz_4.csproj",
         "packagesPath": "C:\\Users\\Кристина Олеговна\\.nuget\\packages\\",
-        "outputPath": "D:\\программирование\\C#\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\obj\\",
+        "outputPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_4\\task27_dz_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Кристина Олеговна\\AppData\\Roaming\\NuGet\\NuGet.Config"
